@@ -1,0 +1,3 @@
+# Host this file at the ROOT of the developer website listed in Play Console:
+# https://mdstudio-dev.github.io/app-ads.txt  (repository named mdstudio-dev.github.io)
+google.com, pub-1146215610257073, DIRECT, f08c47fec0942fa0
